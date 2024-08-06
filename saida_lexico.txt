@@ -1,0 +1,67 @@
+Tabela de Tokens:
+COMENTARIO: // Este é um comentário de linha - Linha 1
+OPERADOR: / - Linha 3
+OPERADOR: * - Linha 3
+IDENTIFICADOR: Este - Linha 4
+IDENTIFICADOR: um - Linha 4
+IDENTIFICADOR: coment - Linha 5
+IDENTIFICADOR: rio - Linha 5
+IDENTIFICADOR: de - Linha 5
+IDENTIFICADOR: bloco - Linha 5
+OPERADOR: * - Linha 6
+OPERADOR: / - Linha 6
+IDENTIFICADOR: int - Linha 8
+IDENTIFICADOR: main - Linha 8
+PARENTESE: ( - Linha 8
+PARENTESE: ) - Linha 8
+IDENTIFICADOR: int - Linha 9
+IDENTIFICADOR: a - Linha 9
+ATRIBUICAO: = - Linha 9
+NUMERO: 10 - Linha 9
+PONTO_VIRGULA: ; - Linha 9
+IDENTIFICADOR: float - Linha 10
+IDENTIFICADOR: b - Linha 10
+ATRIBUICAO: = - Linha 10
+NUMERO: 20.5 - Linha 10
+PONTO_VIRGULA: ; - Linha 10
+IDENTIFICADOR: a - Linha 11
+ATRIBUICAO: = - Linha 11
+IDENTIFICADOR: a - Linha 11
+OPERADOR: + - Linha 11
+NUMERO: 2 - Linha 11
+PONTO_VIRGULA: ; - Linha 11
+IDENTIFICADOR: b - Linha 12
+ATRIBUICAO: = - Linha 12
+IDENTIFICADOR: b - Linha 12
+OPERADOR: * - Linha 12
+NUMERO: 3.14 - Linha 12
+PONTO_VIRGULA: ; - Linha 12
+IDENTIFICADOR: if - Linha 14
+PARENTESE: ( - Linha 14
+IDENTIFICADOR: a - Linha 14
+NUMERO: 20 - Linha 14
+PARENTESE: ) - Linha 14
+IDENTIFICADOR: a - Linha 15
+ATRIBUICAO: = - Linha 15
+IDENTIFICADOR: a - Linha 15
+OPERADOR: + - Linha 15
+NUMERO: 1 - Linha 15
+PONTO_VIRGULA: ; - Linha 15
+IDENTIFICADOR: return - Linha 18
+NUMERO: 0 - Linha 18
+PONTO_VIRGULA: ; - Linha 18
+
+Tabela de S�mbolos:
+Este
+um
+coment
+rio
+de
+bloco
+int
+main
+a
+float
+b
+if
+return
